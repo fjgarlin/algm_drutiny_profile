@@ -1,0 +1,14 @@
+{
+    "name": "bomoko/algm_drutiny_profile",
+    "description": "Basic profile for ALGM drutiny audits",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Blaize Kaye",
+            "email": "blaize.kaye@amazee.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
