@@ -1,7 +1,7 @@
 {
     "name": "bomoko/algm_drutiny_profile",
     "description": "Basic profile for ALGM drutiny audits",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
