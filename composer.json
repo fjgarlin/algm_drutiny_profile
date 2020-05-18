@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "drutiny/plugin-drupal-8": "2.x-dev"
+    }
 }
