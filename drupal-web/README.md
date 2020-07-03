@@ -6,8 +6,12 @@
 * `docker-compose exec cli bash`
 * `COMPOSER_MEMORY_LIMIT=-1 composer install`
 * `drush si`
-* `/ALGM/vendor/bin/drutiny policy:list`
-* `/ALGM/vendor/bin/drutiny policy:audit Drupal-8:DblogDisabled @self`
+* `cd /ALGM`
+* `composer require bomoko/algm_drutiny_profile:dev-master`
+* Examples:
+  * `./vendor/bin/drutiny policy:list`
+  * `./vendor/bin/drutiny policy:audit Drupal-8:DblogDisabled @self`
+  * `./vendor/bin/drutiny profile:run ALGMbasicaudit @self`
 
 
 ## Composer template for Drupal projects
