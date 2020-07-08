@@ -24,3 +24,5 @@ web/sites/*/services.local.yml
 /.env
 /.editorconfig
 /.gitattributes
+
+/tmp
